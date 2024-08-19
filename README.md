@@ -3,5 +3,3 @@ Measurement Data from 5G Networks refers to the various types of data collected 
 
 Compared to time-consuming and expensive drive test data, measurement data is easy to obtain. This measurement data is collected in Guangdong Province, China. 
 
-![Uploading 微信图片_20240807223824.png…]()
-
